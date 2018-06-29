@@ -9,7 +9,7 @@ def display_board(board)
 end
 
 def position_taken?(board)(index)
-  if board[index] == "  "
+  if "#{board[index]} == "  ""
   returns false
   end
 end
